@@ -1,2 +1,2 @@
 # portfolio
-A collection of my previous work and contributions as a technical writer.
+A collection of some of my previous work and contributions as a technical writer.
